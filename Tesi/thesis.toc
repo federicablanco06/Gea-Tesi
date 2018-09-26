@@ -30,7 +30,7 @@
 \contentsline {chapter}{\numberline {8}Eighth chapter}{25}{chapter.8}
 \contentsline {chapter}{\numberline {9}Ninth chapter}{27}{chapter.9}
 \contentsline {chapter}{Conclusions}{29}{chapter*.21}
-\contentsline {chapter}{Bibliography}{29}{chapter*.21}
-\contentsline {chapter}{\numberline {A}First appendix}{31}{appendix.A}
-\contentsline {chapter}{\numberline {B}Second appendix}{33}{appendix.B}
-\contentsline {chapter}{\numberline {C}Third appendix}{35}{appendix.C}
+\contentsline {chapter}{Bibliography}{31}{chapter*.22}
+\contentsline {chapter}{\numberline {A}First appendix}{33}{appendix.A}
+\contentsline {chapter}{\numberline {B}Second appendix}{35}{appendix.B}
+\contentsline {chapter}{\numberline {C}Third appendix}{37}{appendix.C}
