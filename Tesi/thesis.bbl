@@ -1,7 +1,19 @@
 \begin{thebibliography}{1}
 
-\bibitem{Ciao}
-{\em bello}.
-\newblock 1, 22.
+\bibitem{Lastoriadell'alimentazionedell'uomo.}
+Michel Montignac.
+\newblock {\em La storia dell'alimentazione dell'uomo.}
+
+\bibitem{Childhoodobesity}
+DS~Ludwig CB~Ebbeling, DB~Pawlak.
+\newblock {\em Childhood obesity: public-health crisis, common sense cure.},
+  volume 360, pages 473--482.
+\newblock The Lancet, August 2002.
+
+\bibitem{FoodallergyUSchildren}
+SL~Lukacs AM~Branum.
+\newblock Food allergy among us children: trends in prevalence and
+  hospitalizations.
+\newblock {\em NCHS Data Brief}, (10), 2008.
 
 \end{thebibliography}
