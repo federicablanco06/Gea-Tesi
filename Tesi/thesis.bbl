@@ -1,8 +1,21 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
-\bibitem{Lastoriadell'alimentazionedell'uomo.}
-Michel Montignac.
-\newblock {\em La storia dell'alimentazione dell'uomo.}
+\bibitem{FoodallergyUSchildren}
+SL~Lukacs AM~Branum.
+\newblock Food allergy among us children: trends in prevalence and
+  hospitalizations.
+\newblock {\em NCHS Data Brief}, (10), 2008.
+
+\bibitem{Muhanna}
+Muhanna A.Muhanna.
+\newblock {\em Virtual reality and the CAVE: Taxonomy, interaction challenges
+  and research directions.}, volume~27, pages 344--361.
+\newblock Journal of King Saud University - Computer and Information Sciences,
+  July 2015.
+
+\bibitem{Cardboard}
+Google Cardboard.
+\newblock \url{https://www.google.com/intl/en/get/cardboard/}.
 
 \bibitem{Childhoodobesity}
 DS~Ludwig CB~Ebbeling, DB~Pawlak.
@@ -10,10 +23,34 @@ DS~Ludwig CB~Ebbeling, DB~Pawlak.
   volume 360, pages 473--482.
 \newblock The Lancet, August 2002.
 
-\bibitem{FoodallergyUSchildren}
-SL~Lukacs AM~Branum.
-\newblock Food allergy among us children: trends in prevalence and
-  hospitalizations.
-\newblock {\em NCHS Data Brief}, (10), 2008.
+\bibitem{DigiCapital}
+Digi-Capital.
+\newblock
+  \url{https://www.digi-capital.com/news/2016/01/arvr-investment-in-2015-breaks-out-near-700-million/#.VznX0RWLRE4}.
+
+\bibitem{BioccaDelaney}
+B.~Delaney F.~Biocca.
+\newblock {\em Communication in the age of virtual reality.}
+\newblock 1995.
+
+\bibitem{Lastoriadell'alimentazionedell'uomo.}
+Michel Montignac.
+\newblock {\em La storia dell'alimentazione dell'uomo.}
+
+\bibitem{StefanSeipel}
+Stefan Seipel.
+\newblock An introduction into virtual reality environments.
+\newblock
+  \url{https://www.it.uu.se/edu/course/homepage/igs/ht06/lect/F1_igs_intro_vr.pdf},
+  1997.
+
+\bibitem{JonathanSteuer}
+Jonathan Steuer.
+\newblock {\em Defining Virtual Reality: Dimensions Determining Telepresence.}
+\newblock 1993.
+
+\bibitem{Gear}
+Samsung~Gear VR.
+\newblock \url{https://www.samsung.com/global/galaxy/gear-vr/}.
 
 \end{thebibliography}
