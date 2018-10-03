@@ -3,10 +3,16 @@ The style file: plain.bst
 Database file #1: bibliografia.bib
 Warning--there's a number but no volume in FoodallergyUSchildren
 Warning--empty publisher in APA
+Warning--empty publisher in Creed
+Warning--empty year in Creed
 Warning--empty publisher in BioccaDelaney
+Warning--empty publisher in Infante
+Warning--empty year in Infante
 Warning--empty publisher in Lastoriadell'alimentazionedell'uomo.
 Warning--empty year in Lastoriadell'alimentazionedell'uomo.
+Warning--empty publisher in Sharp
+Warning--empty year in Sharp
 Warning--empty publisher in JonathanSteuer
 Warning--empty publisher in Dorothy
 Warning--empty year in Dorothy
-(There were 8 warnings)
+(There were 14 warnings)

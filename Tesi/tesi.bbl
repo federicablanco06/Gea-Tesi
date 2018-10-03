@@ -29,6 +29,10 @@ DS~Ludwig CB~Ebbeling, DB~Pawlak.
   volume 360, pages 473--482.
 \newblock The Lancet, August 2002.
 
+\bibitem{Creed}
+Chris Creed.
+\newblock {\em Advanced Interaction Group}.
+
 \bibitem{DigiCapital}
 Digi-Capital.
 \newblock
@@ -52,6 +56,10 @@ Daniele~Occhiuto Franca~Garzotto, Mirko~Gelsomini.
 \newblock In {\em Annual International Conference of the IEEE Engineering in
   Medicine and Biology Society}, 2016.
 
+\bibitem{Infante}
+Andre Infante.
+\newblock {\em The evolution of touchscreen technology}.
+
 \bibitem{Strickland}
 Strickland~D. Marcus L.~et all.
 \newblock Using virtual reality as a learning aid for autistic children.
@@ -68,6 +76,11 @@ Stefan Seipel.
 \newblock
   \url{https://www.it.uu.se/edu/course/homepage/igs/ht06/lect/F1_igs_intro_vr.pdf},
   1997.
+
+\bibitem{Sharp}
+Laura~A. Sharp.
+\newblock {\em Stealth learning: unexpected learning opportunities through
+  games}.
 
 \bibitem{JonathanSteuer}
 Jonathan Steuer.
