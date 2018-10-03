@@ -1,5 +1,17 @@
 \begin{thebibliography}{10}
 
+\bibitem{Dolphin}
+Dolphin sam.
+\newblock \url{http://dolphinsam.com/index.html}.
+
+\bibitem{Huggable}
+Huggable.
+\newblock \url{http://robotic.media.mit.edu/portfolio/huggable/}.
+
+\bibitem{M4all}
+M4all.
+\newblock \url{http://i3lab.me/projects/m4all}.
+
 \bibitem{FoodallergyUSchildren}
 SL~Lukacs AM~Branum.
 \newblock Food allergy among us children: trends in prevalence and
@@ -59,6 +71,11 @@ Daniele~Occhiuto Franca~Garzotto, Mirko~Gelsomini.
 \bibitem{Infante}
 Andre Infante.
 \newblock {\em The evolution of touchscreen technology}.
+
+\bibitem{Smart}
+Daniel~Fitton Kortuem~Gerd, Fahim Kawsar et~all.
+\newblock Smart objects as building blocks for the internet of things.
+\newblock In {\em IEEE Internet Computing}, volume~14, pages 44--51, 2010.
 
 \bibitem{Strickland}
 Strickland~D. Marcus L.~et all.

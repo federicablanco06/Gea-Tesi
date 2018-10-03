@@ -1,6 +1,9 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: tesi.aux
+This is BibTeX, Version 0.99dThe top-level auxiliary file: tesi1.aux
 The style file: plain.bst
-Database file #1: bibliografia.bib
+Database file #1: bib.bib
+Warning--to sort, need author or key in Dolphin
+Warning--to sort, need author or key in Huggable
+Warning--to sort, need author or key in M4all
 Warning--there's a number but no volume in FoodallergyUSchildren
 Warning--empty publisher in APA
 Warning--empty publisher in Creed
@@ -15,4 +18,4 @@ Warning--empty year in Sharp
 Warning--empty publisher in JonathanSteuer
 Warning--empty publisher in Dorothy
 Warning--empty year in Dorothy
-(There were 14 warnings)
+(There were 17 warnings)
