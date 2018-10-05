@@ -12,6 +12,12 @@ Huggable.
 M4all.
 \newblock \url{http://i3lab.me/projects/m4all}.
 
+\bibitem{Wii}
+{\em Research in Developmental Disabilities}, volume~32, chapter Effectiveness
+  of virtual reality using Wii gaming technology in children with Down
+  syndrome, pages 312--321.
+\newblock January-February 2011.
+
 \bibitem{FoodallergyUSchildren}
 SL~Lukacs AM~Branum.
 \newblock Food allergy among us children: trends in prevalence and
@@ -65,6 +71,12 @@ EPA.
   \url{https://www.epa.gov/sites/production/files/2015-10/documents/ace3_neurodevelopmental.pdf},
   2015.
 
+\bibitem{Eugenia}
+Kolasinski Eugenia.
+\newblock {\em Simulator Sickness in Virtual Environments}.
+\newblock United States Army Research Institute for the Behavioral and Social
+  Sciences, May 1995.
+
 \bibitem{BioccaDelaney}
 B.~Delaney F.~Biocca.
 \newblock {\em Communication in the age of virtual reality.}
@@ -96,9 +108,31 @@ Strickland~D. Marcus L.~et all.
 M.J. Mayo.
 \newblock {\em Videogames: a route to large-scale STEM education?}
 
+\bibitem{Reid}
+Denise~Reid Michelle~Wang.
+\newblock Virtual reality in pediatric neurorehabilitation: Attention deficit
+  hyperactivity disorder, autism and cerebral palsy.
+\newblock \url{https://www.karger.com/Article/Pdf/320847}.
+
 \bibitem{Lastoriadell'alimentazionedell'uomo.}
 Michel Montignac.
 \newblock {\em La storia dell'alimentazione dell'uomo.}
+
+\bibitem{Tandra}
+Tandra~Allen Nyaz Didehbani~et all.
+\newblock Virtual reality social cognition training for children with high
+  functioning autism.
+\newblock In {\em Computers in human behavior}, pages 703--711, 2016.
+
+\bibitem{Pelagia}
+Karen~Goldschmidt Pelagia~Papathomas.
+\newblock Utilizing virtual reality and immersion video technology as a focused
+  learning tool for children with autism spectrum disorder.
+\newblock {\em Journal of pediatric nursing}, pages 8--9, 2017.
+
+\bibitem{Vive}
+HTC~Vive Pro.
+\newblock \url{https://www.vive.com/eu/product/vive-pro-full-kit/}.
 
 \bibitem{StefanSeipel}
 Stefan Seipel.
@@ -125,6 +159,12 @@ Jonathan Steuer.
 \bibitem{Dorothy}
 Dorothy Strickland.
 \newblock {\em A Virtual Reality Application with Autistic Children.}
+
+\bibitem{Parsons}
+Sarah~Parsons Thomas D.~Parsons, Giuseppe Riva et~all.
+\newblock Virtual reality in pediatric psychology.
+\newblock
+  \url{http://pediatrics.aappublications.org/content/pediatrics/140/Supplement_2/S86.full.pdf}.
 
 \bibitem{Gear}
 Samsung~Gear VR.

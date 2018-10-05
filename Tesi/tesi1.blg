@@ -4,6 +4,9 @@ Database file #1: bib.bib
 Warning--to sort, need author or key in Dolphin
 Warning--to sort, need author or key in Huggable
 Warning--to sort, need author or key in M4all
+Warning--to sort, need author, editor, or key in Wii
+Warning--empty author and editor in Wii
+Warning--empty publisher in Wii
 Warning--there's a number but no volume in FoodallergyUSchildren
 Warning--empty publisher in Annetta
 Warning--empty year in Annetta
@@ -26,4 +29,4 @@ Warning--empty year in Sharp
 Warning--empty publisher in JonathanSteuer
 Warning--empty publisher in Dorothy
 Warning--empty year in Dorothy
-(There were 25 warnings)
+(There were 28 warnings)

@@ -10,33 +10,33 @@
 \contentsline {chapter}{\numberline {1}State of the art}{9}{chapter.1}
 \contentsline {section}{\numberline {1.1}Modern technologies for NDD people}{9}{section.1.1}
 \contentsline {section}{\numberline {1.2}Virtual Reality}{10}{section.1.2}
-\contentsline {section}{\numberline {1.3}Touchscreen}{10}{section.1.3}
-\contentsline {section}{\numberline {1.4}Google Chromecast}{11}{section.1.4}
-\contentsline {section}{\numberline {1.5}Projects about food education}{11}{section.1.5}
-\contentsline {chapter}{\numberline {2}Target groups, Needs and Requirements}{13}{chapter.2}
-\contentsline {section}{\numberline {2.1}Requirements elicitation}{13}{section.2.1}
-\contentsline {section}{\numberline {2.2}Onlus varie}{13}{section.2.2}
-\contentsline {section}{\numberline {2.3}Main target groups}{13}{section.2.3}
-\contentsline {section}{\numberline {2.4}Context and need addressed}{13}{section.2.4}
-\contentsline {section}{\numberline {2.5}Constraints}{13}{section.2.5}
-\contentsline {section}{\numberline {2.6}Goals}{13}{section.2.6}
-\contentsline {section}{\numberline {2.7}Requirements}{13}{section.2.7}
-\contentsline {chapter}{\numberline {3}Design}{15}{chapter.3}
-\contentsline {section}{\numberline {3.1}General approach}{15}{section.3.1}
-\contentsline {section}{\numberline {3.2}Descrizione singole parti}{15}{section.3.2}
-\contentsline {section}{\numberline {3.3}Scenarios}{15}{section.3.3}
-\contentsline {section}{\numberline {3.4}UX}{15}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Site maps}{15}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Pages}{15}{subsection.3.4.2}
-\contentsline {subsection}{\numberline {3.4.3}Use cases}{15}{subsection.3.4.3}
-\contentsline {chapter}{\numberline {4}Implementation}{17}{chapter.4}
-\contentsline {section}{\numberline {4.1}Tools}{17}{section.4.1}
-\contentsline {section}{\numberline {4.2}Hardware Architecture}{17}{section.4.2}
-\contentsline {section}{\numberline {4.3}Software Architecture}{17}{section.4.3}
-\contentsline {chapter}{\numberline {5}Content issues}{19}{chapter.5}
-\contentsline {chapter}{\numberline {6}Evaluation}{21}{chapter.6}
-\contentsline {chapter}{\numberline {7}Value proposition}{23}{chapter.7}
-\contentsline {chapter}{\numberline {8}Future work}{25}{chapter.8}
-\contentsline {chapter}{Bibliography}{28}{chapter*.19}
-\contentsline {chapter}{\numberline {A}First appendix - User manual}{29}{appendix.A}
-\contentsline {chapter}{\numberline {B}Second appendix - Questionar}{31}{appendix.B}
+\contentsline {section}{\numberline {1.3}Touchscreen}{12}{section.1.3}
+\contentsline {section}{\numberline {1.4}Google Chromecast}{13}{section.1.4}
+\contentsline {section}{\numberline {1.5}Projects about food education}{13}{section.1.5}
+\contentsline {chapter}{\numberline {2}Target groups, Needs and Requirements}{15}{chapter.2}
+\contentsline {section}{\numberline {2.1}Requirements elicitation}{15}{section.2.1}
+\contentsline {section}{\numberline {2.2}Onlus varie}{15}{section.2.2}
+\contentsline {section}{\numberline {2.3}Main target groups}{15}{section.2.3}
+\contentsline {section}{\numberline {2.4}Context and need addressed}{16}{section.2.4}
+\contentsline {section}{\numberline {2.5}Constraints}{16}{section.2.5}
+\contentsline {section}{\numberline {2.6}Goals}{16}{section.2.6}
+\contentsline {section}{\numberline {2.7}Requirements}{16}{section.2.7}
+\contentsline {chapter}{\numberline {3}Design}{17}{chapter.3}
+\contentsline {section}{\numberline {3.1}General approach}{17}{section.3.1}
+\contentsline {section}{\numberline {3.2}Descrizione singole parti}{17}{section.3.2}
+\contentsline {section}{\numberline {3.3}Scenarios}{17}{section.3.3}
+\contentsline {section}{\numberline {3.4}UX}{17}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Site maps}{17}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Pages}{17}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Use cases}{17}{subsection.3.4.3}
+\contentsline {chapter}{\numberline {4}Implementation}{19}{chapter.4}
+\contentsline {section}{\numberline {4.1}Tools}{19}{section.4.1}
+\contentsline {section}{\numberline {4.2}Hardware Architecture}{19}{section.4.2}
+\contentsline {section}{\numberline {4.3}Software Architecture}{19}{section.4.3}
+\contentsline {chapter}{\numberline {5}Content issues}{21}{chapter.5}
+\contentsline {chapter}{\numberline {6}Evaluation}{23}{chapter.6}
+\contentsline {chapter}{\numberline {7}Value proposition}{25}{chapter.7}
+\contentsline {chapter}{\numberline {8}Future work}{27}{chapter.8}
+\contentsline {chapter}{Bibliography}{31}{chapter*.22}
+\contentsline {chapter}{\numberline {A}First appendix - User manual}{33}{appendix.A}
+\contentsline {chapter}{\numberline {B}Second appendix - Questionar}{35}{appendix.B}
