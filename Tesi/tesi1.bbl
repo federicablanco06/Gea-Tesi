@@ -56,6 +56,10 @@ DS~Ludwig CB~Ebbeling, DB~Pawlak.
   volume 360, pages 473--482.
 \newblock The Lancet, August 2002.
 
+\bibitem{Chromecast}
+Google Chromecast.
+\newblock \url{https://store.google.com/it/product/chromecast_2015}.
+
 \bibitem{Creed}
 Chris Creed.
 \newblock {\em Advanced Interaction Group}.
@@ -89,9 +93,18 @@ Daniele~Occhiuto Franca~Garzotto, Mirko~Gelsomini.
 \newblock In {\em Annual International Conference of the IEEE Engineering in
   Medicine and Biology Society}, 2016.
 
+\bibitem{Wizdy}
+LifeGuard Games.
+\newblock Wizdy diner.
+\newblock \url{http://wizdygames.com/}.
+
 \bibitem{Infante}
 Andre Infante.
 \newblock {\em The evolution of touchscreen technology}.
+
+\bibitem{FEI}
+Food~Education Italy.
+\newblock \url{http://www.foodedu.it/it}.
 
 \bibitem{Smart}
 Daniel~Fitton Kortuem~Gerd, Fahim Kawsar et~all.
@@ -118,11 +131,25 @@ Denise~Reid Michelle~Wang.
 Michel Montignac.
 \newblock {\em La storia dell'alimentazione dell'uomo.}
 
+\bibitem{Nutrikid}
+Nestl\'e.
+\newblock Nutrikid.
+\newblock \url{https://www.buonalavita.it/nutrikid}.
+
+\bibitem{Jared}
+Jared Newman.
+\newblock
+  \url{https://www.techhive.com/article/2999070/streaming-hardware/chromecast-mirroring-explained-how-to-beam-your-phone-or-pc-screen-to-the-tv.html}.
+
 \bibitem{Tandra}
 Tandra~Allen Nyaz Didehbani~et all.
 \newblock Virtual reality social cognition training for children with high
   functioning autism.
 \newblock In {\em Computers in human behavior}, pages 703--711, 2016.
+
+\bibitem{NFI}
+Nutrition~Foundation of~Italy.
+\newblock \url{http://www.nutrition-foundation.it/homepage.aspx}.
 
 \bibitem{Pelagia}
 Karen~Goldschmidt Pelagia~Papathomas.
@@ -145,11 +172,17 @@ Stefan Seipel.
 E.L. Serrano.
 \newblock {\em The evaluation of food pyramid games, a bilingual computer
   nutrition education program for latino youth}.
+\newblock 2004.
 
 \bibitem{Sharp}
 Laura~A. Sharp.
 \newblock {\em Stealth learning: unexpected learning opportunities through
   games}.
+
+\bibitem{Allergy}
+Shopify.
+\newblock Allergy reality.
+\newblock \url{https://allergyreality.com/}.
 
 \bibitem{JonathanSteuer}
 Jonathan Steuer.
