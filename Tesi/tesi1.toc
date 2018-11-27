@@ -5,16 +5,16 @@
 \contentsline {section}{\numberline {0.3}Touchscreen}{5}{section.0.3}
 \contentsline {section}{\numberline {0.4}Neurodevelopmental Disorder}{6}{section.0.4}
 \contentsline {section}{\numberline {0.5}Participatory Design and Therapy}{8}{section.0.5}
-\contentsline {section}{\numberline {0.6}GEA and its Codesign process}{8}{section.0.6}
-\contentsline {section}{\numberline {0.7}GEA}{8}{section.0.7}
-\contentsline {subsection}{\numberline {0.7.1}Thesi Structure}{8}{subsection.0.7.1}
-\contentsline {subsection}{\numberline {0.7.2}Origin of the name}{8}{subsection.0.7.2}
+\contentsline {section}{\numberline {0.6}GEA and its Codesign process}{9}{section.0.6}
+\contentsline {section}{\numberline {0.7}GEA}{9}{section.0.7}
+\contentsline {subsection}{\numberline {0.7.1}Thesi Structure}{9}{subsection.0.7.1}
+\contentsline {subsection}{\numberline {0.7.2}Origin of the name}{9}{subsection.0.7.2}
 \contentsline {chapter}{\numberline {1}State of the art}{11}{chapter.1}
 \contentsline {section}{\numberline {1.1}Modern technologies for NDD people}{11}{section.1.1}
 \contentsline {section}{\numberline {1.2}Virtual Reality}{12}{section.1.2}
-\contentsline {section}{\numberline {1.3}Touchscreen}{14}{section.1.3}
-\contentsline {section}{\numberline {1.4}Google Chromecast}{15}{section.1.4}
-\contentsline {section}{\numberline {1.5}Projects about food education}{16}{section.1.5}
+\contentsline {section}{\numberline {1.3}Touchscreen}{15}{section.1.3}
+\contentsline {section}{\numberline {1.4}Google Chromecast}{16}{section.1.4}
+\contentsline {section}{\numberline {1.5}Projects about food education}{17}{section.1.5}
 \contentsline {section}{\numberline {1.6}Participatory Design}{17}{section.1.6}
 \contentsline {subsection}{\numberline {1.6.1}What is Participatory Design?}{17}{subsection.1.6.1}
 \contentsline {subsection}{\numberline {1.6.2}Participatory Design with children}{17}{subsection.1.6.2}
@@ -51,6 +51,6 @@
 \contentsline {section}{\numberline {8.2}Hardware Architecture}{31}{section.8.2}
 \contentsline {section}{\numberline {8.3}Software Architecture}{31}{section.8.3}
 \contentsline {chapter}{\numberline {9}Conclusion}{33}{chapter.9}
-\contentsline {chapter}{Bibliography}{37}{chapter*.23}
+\contentsline {chapter}{Bibliography}{37}{chapter*.24}
 \contentsline {chapter}{\numberline {A}First appendix - User manual}{39}{appendix.A}
 \contentsline {chapter}{\numberline {B}Second appendix - Questionar}{41}{appendix.B}
