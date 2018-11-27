@@ -6,9 +6,9 @@
 \contentsline {section}{\numberline {0.4}Neurodevelopmental Disorder}{6}{section.0.4}
 \contentsline {section}{\numberline {0.5}Participatory Design and Therapy}{8}{section.0.5}
 \contentsline {section}{\numberline {0.6}GEA and its Codesign process}{9}{section.0.6}
-\contentsline {section}{\numberline {0.7}GEA}{9}{section.0.7}
-\contentsline {subsection}{\numberline {0.7.1}Thesi Structure}{9}{subsection.0.7.1}
-\contentsline {subsection}{\numberline {0.7.2}Origin of the name}{10}{subsection.0.7.2}
+\contentsline {section}{\numberline {0.7}GEA}{10}{section.0.7}
+\contentsline {subsection}{\numberline {0.7.1}Thesi Structure}{10}{subsection.0.7.1}
+\contentsline {subsection}{\numberline {0.7.2}Origin of the name and mascotte}{10}{subsection.0.7.2}
 \contentsline {chapter}{\numberline {1}State of the art}{13}{chapter.1}
 \contentsline {section}{\numberline {1.1}Modern technologies for NDD people}{13}{section.1.1}
 \contentsline {section}{\numberline {1.2}Virtual Reality}{14}{section.1.2}
@@ -51,6 +51,6 @@
 \contentsline {section}{\numberline {8.2}Hardware Architecture}{33}{section.8.2}
 \contentsline {section}{\numberline {8.3}Software Architecture}{33}{section.8.3}
 \contentsline {chapter}{\numberline {9}Conclusion}{35}{chapter.9}
-\contentsline {chapter}{Bibliography}{39}{chapter*.25}
+\contentsline {chapter}{Bibliography}{39}{chapter*.26}
 \contentsline {chapter}{\numberline {A}First appendix - User manual}{41}{appendix.A}
 \contentsline {chapter}{\numberline {B}Second appendix - Questionar}{43}{appendix.B}
