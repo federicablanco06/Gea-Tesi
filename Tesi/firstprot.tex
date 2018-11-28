@@ -1,5 +1,5 @@
 \section{Requirements elicitation}
-The requirements, needs and goals for GEA were collected through meetings with psychologists and experts in the field of NDD, mainly Eleonora Beccaluva of the \textit{Fraternit\'a \& Amicizia Onlus} in Milan with whom we collaborated starting from the general idea up to the actual development. To better contextualize and define the themes of the educational game, we took part in some food laboratory activities organized in the aforementioned therapeutic center with patients with high functioning NDD. During these days the boys themselves showed a high interest in wanting to learn properly nutrition emphasizing a need for self-sufficiency that could be achieved through a game of support and continuation of educational activities usable by home and not only during dedicated hours. They showed us the environments in which they teach lessons explaining how they are structured, what are the focuses on which they focused and have specifically asked us to turn all this into a fun and educational game at the same time. Both patients and educators have shown themselves to be very supportive of the idea of using Virtual Reality for many positive factors such as being able to recreate the safe environment in which they are accustomed to work, thus maintaining the same serenity even at home, being able to avoid distractions and the ability to customize the difficulty depending on the individual skills.\\
+The requirements, needs and goals for GEA were collected through meetings with psychologists and experts in the field of NDD, mainly Eleonora Beccaluva of the \textit{Fraternit\'a \& Amicizia Onlus} in Milan with whom we collaborated starting from the general idea up to the actual development. To better contextualize and define the themes of the educational game, we took part in some food laboratory activities organized in the aforementioned therapeutic center with patients with high functioning NDD. During these days the boys themselves showed a high interest in wanting to learn properly nutrition emphasizing a need for self-sufficiency that could be achieved through a game of support and continuation of educational activities usable by home and not only during dedicated hours. They showed us the environments in which they teach lessons explaining how they are structured, what are the main points on which they focused and they have specifically asked us to turn all this into a fun and educational game at the same time. Both patients and educators have shown themselves to be very supportive of the idea of using Virtual Reality for many positive factors such as being able to recreate the safe environment in which they are accustomed to work, thus maintaining the same serenity even at home, being able to avoid distractions and the ability to customize the difficulty depending on the individual skills.\\
 The first meetings for the collection of the requisites were carried out as follows
 \begin{enumerate}
 \item First meeting: 
@@ -32,7 +32,12 @@ VR viewer)?
 \item[-]Result: We were provided with suggestions regarding graphics and underlined the fact that not all children are able to read
 \end{itemize}
 \end{enumerate}
-\subsection{Onlus varie}
+\subsection{Fraternit\'a \& Amicizia Onlus}
+\begin{figure}[H]
+\centering
+\includegraphics[width=12cm, height=4cm]{immagini/logofa.jpg}
+\caption{Fraternit\'a \& Amicizia Onlus logo}\label{fig:logofa}
+\end{figure}
 \subsection{Main target groups}
 Our system is designed to be easily used by different kinds of users that must have a little bit knowledge about nutrition, like for example the food pyramid. There are three main categories of stakeholders involved in our application:
 \begin{itemize}
@@ -42,11 +47,30 @@ Our system is designed to be easily used by different kinds of users that must h
 \end{itemize} 
 \subsection{Context and need addressed}
 The context of use of GEA is predominantly a room in a specialized center during
-a feeding laboratory session with the presence of a therapist. It can also be used at home, even if preferably with the presence of someone who can explain the mistakes made. Finally it could be used in schools for post-lesson learning exercises and tests.
+a feeding laboratory session with the presence of a therapist. It can also be used at home, even if preferably with the presence of someone who can explain the mistakes made. Finally it could be used in schools for post-lesson learning exercises and tests.\\
+\\
+The need our application seeks to satisfy is a necessity development of personal and domestic autonomy in the field of nutrition:therefore increase the ability to establish independently which foods are correct
+eat, in how many doses and at which meals of the day.
 \subsection{Constraints}
+The proposed application should be able to execute on simple and for everyone WIVR devices, such as smartphones. This constraint is necessary since the application is meant to be used not only in therapeutic centers but also in different contexts, such as at home where there could be economic difficulties or not very high interest in sophisticated technologies. So, if we want a large diffusion of GEA we must develop it for the most common and popular device. It is important that the application should be usable and customizable by people with a poor, or maybe absent, knowledge about Virtual Reality applications so great ease of use is another constraint. After that is important the presence of internet connection due to the fact that the application must load from a database the dynamic contents like foods and difficulties. Finally we try to have as low power consumption as possible because we want the user to do a lot of games and not stop due to the battery level.
 \subsection{Goals}
+The goal of the GEA project is to create an application that can teach to children with NDD food education through an experience of interactive game.
 \subsection{Requirements}
-elencati
-
+After the meetings with therapists and patients and after analysing what they reported to be the key issues and the peculiarities in working with NDD patients, we elicited several requirements for our application to satisfy in its design and implementation.
+At a high-level, the requirements for GEA can be summarized as follows:
+\begin{itemize}
+\item Requirement 1: Customization\\
+The therapist must be able to set a level of difficulty in the game based on the child's skills so as to  adapt the game to his/her level of knowledge and then gradually increase the difficulty
+\item Requirement 2: Inherent contents\\
+The contents of the game must be inherent and reflect those used during the food laboratory work-shops.  For this reason, the developed games should be based on the food pyramid, on the recognition of healthy foods and on the ability to associate dishes and meals.
+\item Requirement 3: Simple virtual environment\\
+Because of the various disabilities affecting the users, particular attention to the visualized graphics should be kept: the environment should contain only elements essential for the specific task and cold colors should be avoided, as well as unexpected or flashing animations, as they could trigger negative reactions in the users
+\item Requirement 4: Visual explanations\\
+The possible users of the game differ in age and severity of disability, so there is the possibility that not everyone can read. For this reason, each task must include visual explanations about the goal of the game and how to complete it.
+\item Requirement 5: Importance of Feedback\\
+Every user's action during the game must receive the right feedback. Giving a positive feedback when the right action is accomplished and a negative one when a mistake is made helps maintain the children attention span and their engagement in the game
+\item Requirement 6: Session monitoring\\
+The therapist must always keep under control what the child is doing during the game experience, in order to follow his/her improvements and difficulties and to be able to provide the necessary explanations.
+\end{itemize}
 \section{UX Design}
 \section{Implementation Overview}
