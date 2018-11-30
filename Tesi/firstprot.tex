@@ -75,45 +75,45 @@ The possible users of the game differ in age and severity of disability, so ther
 \item Requirement 5: Importance of Feedback\\
 Every user's action during the game must receive the right feedback. Giving a positive feedback when the right action is accomplished and a negative one when a mistake is made helps maintain the children attention span and their engagement in the game
 \item Requirement 6: Session monitoring\\
-The therapist must always keep under control what the child is doing during the game experience, in order to follow his/her improvements and difficulties and to be able to provide the necessary explanations.
+The therapist must always keep under control what the child is doing during the game experience, in order to follow his/her improvements and difficulties and to be able to provide the necessary explanations.\\
 \end{itemize}
-
 \section{UX Design}
 \subsection{Home page}
 Starting from the above requirements, we designed GEA as an easy-to-use smartphone application including an initial menu, from which the therapist can select which game to launch and its level of difficulty, and three VR games, based on the real activities of the previously cited food laboratory.\\
-When the application starts, the home page is shown, with the three available games, as shown in \ref{fig:home}, "Learn with the pyramid!", "Healthy or not?" and "Let's eat!". After that, the therapist chooses the level of difficulty of the selected game \ref{fig:level}. The difficulty does not lie in the way the game is played or in its objective but in the type of food shown: for example, in the easy level users can find common foods such as pasta, pizza or cake while in the difficult level there are foods such as barley, chickpeas and papaya, that are less known to children. The choice of the game and the difficulty is made via touchscreen on the smartphone, before inserting it in the VR viewer: in this way, the therapist can easily setup the experience before putting the patient in the virtual environment.
+When the application starts, the home page is shown, with the three available games, as shown in \ref{fig:home}, "Learn with the pyramid!", "Healthy or not?" and "Let's eat!". \\
 \begin{figure}[H]
 \centering
 \includegraphics[width=10cm, height=6cm]{immagini/Game.png}
 \caption{Home page}\label{fig:home}
 \end{figure}
+After that, the therapist chooses the level of difficulty of the selected game \ref{fig:level}. The difficulty does not lie in the way the game is played or in its objective but in the type of food shown: for example, in the easy level users can find common foods such as pasta, pizza or cake while in the difficult level there are foods such as barley, chickpeas and papaya, that are less known to children. The choice of the game and the difficulty is made via touchscreen on the smartphone, before inserting it in the VR viewer: in this way, the therapist can easily setup the experience before putting the patient in the virtual environment.\\
 \begin{figure}[H]
 \centering
 \includegraphics[width=10cm, height=6cm]{immagini/Level.png}
 \caption{Level page}\label{fig:level}
 \end{figure}
-In figure \ref{fig:homeflow} is shown the flow diagram of the application. As described above the app starts, then there are game's choice and relative selection of difficulty, finally the mini-game is launched. At the end of the session it comes back to the home page.
+In figure \ref{fig:homeflow} is shown the flow diagram of the application. As described above the app starts, then there are game's choice and relative selection of difficulty, finally the mini-game is launched. At the end of the session it comes back to the home page.\\
 \begin{figure}[H]
 \centering
 \includegraphics[width=15cm, height=5cm]{immagini/flow1.png}
 \caption{Home page flow diagram}\label{fig:homeflow}
 \end{figure}
 When the game starts, the patient is immersed in the virtual space, which is the same for all the games and reproduces the real setting of the therapy: there is a room with a table, a fridge, a window,a door, a sofa and a kitchen, in order to keep the space as simple as possible but also inherent with nutrition. In front of the user, a short explanation for each game and a play button appear. The explanation is represented by graphical clues, to be understandable also by users who cannot read. Moreover, a fantasy character serving as mascot of the game was created, with the goal of making the application more fun and serving as visual feedback after each user's action. At the end of each session with each game the number of correct and wrong answers is shown to the user, with the total scored points.\\
-In figure \ref{fig:gameflow} is shown the flow diagram of each mini-game, they are all structured with the start and appearing of the choices. After that the user as to select what he/she thinks is correct and a feedback confirm or not with a respective increment or not of the points. At the end of three or five session (depending on the game) the total score is displayed and after some seconds the app come back to the home page.
+In figure \ref{fig:gameflow} is shown the flow diagram of each mini-game, they are all structured with the start and appearing of the choices. After that the user as to select what he/she thinks is correct and a feedback confirm or not with a respective increment or not of the points. At the end of three or five session (depending on the game) the total score is displayed and after some seconds the app come back to the home page.\\
 \begin{figure}[H]
 \centering
 \includegraphics[width=15cm, height=8cm]{immagini/flow2.png}
 \caption{Games flow diagram}\label{fig:gameflow}
 \end{figure}
 \subsection{"Learn with the pyramid!" page}
-This game aims to teach how to complete the food pyramid, by selecting which food goes in each level. In the virtual environment appears a pyramid divided into five levels, with a pointer indicating which level the user is currently completing and the table with three options \ref{fig:pyramid}. The red circle in the image is the pointer representing the current user's focus point. The user has to focus on the correct choice for a certain time interval to give the answer, avoiding possible unwanted answers while the user is looking around in the environment. After an answer is given, a feedback is provided: the game mascot appears with a sad expression if the answer is wrong and the active level of the pyramid becomes red, if the answer is correct a happy mascot is shown and the level becomes green.
+This game aims to teach how to complete the food pyramid, by selecting which food goes in each level. In the virtual environment appears a pyramid divided into five levels, with a pointer indicating which level the user is currently completing and the table with three options \ref{fig:pyramid}. The red circle in the image is the pointer representing the current user's focus point. The user has to focus on the correct choice for a certain time interval to give the answer, avoiding possible unwanted answers while the user is looking around in the environment. After an answer is given, a feedback is provided: the game mascot appears with a sad expression if the answer is wrong and the active level of the pyramid becomes red, if the answer is correct a happy mascot is shown and the level becomes green.\\
 \begin{figure}[H]
 \centering
 \includegraphics[width=10cm, height=6cm]{immagini/Pyramid.png}
 \caption{"Learn with the pyramid!" page}\label{fig:pyramid}
 \end{figure}
 \subsection{"Healthy or not?" page}
-This game is proposed to train patients in recognizing if a dish is healthy or not. When the game starts, two dishes appear on the table of the virtual room, with a bin and the visual explanation of how the game works \ref{fig:healthy}: the user must select the "junk food" with the eyes and move it, by keeping the gaze focused on it, until it is thrown in the bin. There are three repetitions of this game, with different choices, and after each answer a feedback is shown, like the one described before.
+This game is proposed to train patients in recognizing if a dish is healthy or not. When the game starts, two dishes appear on the table of the virtual room, with a bin and the visual explanation of how the game works \ref{fig:healthy}: the user must select the "junk food" with the eyes and move it, by keeping the gaze focused on it, until it is thrown in the bin. There are three repetitions of this game, with different choices, and after each answer a feedback is shown, like the one described before.\\
 \begin{figure}[H]
 \centering
 \includegraphics[width=10cm, height=6cm]{immagini/Healthy.png}
@@ -121,7 +121,7 @@ This game is proposed to train patients in recognizing if a dish is healthy or n
 \end{figure}
 \subsection{"Let's eat!" page}
 This game aims to teach how to associate meals of the day to specific dishes. It was created in particular
-for those patients who have difficulties in understanding when they can eat something or they cannot. In this case, the virtual environment presents four images representing the four main meals (breakfast, lunch, afternoon snack and dinner) and a dish \ref{fig:eat}: the goal is to select the correct meal/s in which the dish can be eaten. Like in the second game, there are three repetitions and after each answer a feedback is given.
+for those patients who have difficulties in understanding when they can eat something or they cannot. In this case, the virtual environment presents four images representing the four main meals (breakfast, lunch, afternoon snack and dinner) and a dish \ref{fig:eat}: the goal is to select the correct meal/s in which the dish can be eaten. Like in the second game, there are three repetitions and after each answer a feedback is given.\\
 \begin{figure}[H]
 \centering
 \includegraphics[width=10cm, height=6cm]{immagini/Eat.png}
@@ -129,3 +129,47 @@ for those patients who have difficulties in understanding when they can eat some
 \end{figure}
 
 \section{Implementation Overview}
+In this section, we briefly go over the general implementation choices we made for the
+initial prototype of GEA. The \autoref{chap:imple} focuses more precisely on all the implementation details, delivering a complete view of the game application structure, both for the initial and final stages of the development; here, we just give a quick overview of the technological choices on which the development process was based off.\\
+On the hardware side, very few requirements had to be met: the only devices required to use GEA are two smartphone-based WIVR headsets (Google Cardboard is the cheapest solution) and two smartphones running Android 4.1+ and basic functionalities as internet access and a working accelerometer/gyroscope.\\
+The core of GEA's WIVR experiences is based on A-Frame, an open-source web framework for building virtual reality experiences with JavaScript and HTML. Developed by the Mozilla VR team, it is one of the easiest as well as most powerful ways to develop VR content on the Web (WebVR). A-Frame is based on top of HTML, making it simple to create virtual scenes inside web pages.\\
+
+\begin{table}
+\centering
+\tabulinesep=1.2mm
+\newcolumntype{C}{>{\centering\arraybackslash} m{8cm} }
+\newcolumntype{A}{>{\centering\arraybackslash} m{2.5cm} }
+\begin{tabu} {|A|C|}
+\hline
+\multicolumn{2}{|c|}{\textbf{\Large Languages used}}\\
+       \hline
+       \textbf{HTML} &  \shortstack{Standard markup language \\ for creating web pages \\ and web applications}\\\hline
+       \textbf{Javascript} & \shortstack{High level programming languages \\ that enables interactive web pages, \\ client-side}\\\hline
+       \textbf{CSS} & \shortstack{Is a style sheet language used\\ for describing the presentation of a document\\ written in a markup language like HTML} \\\hline
+       \textbf{PHP} &  \shortstack{Is a server-side scripting language\\ designed for Web development}\\
+\hline
+\textbf{JQuery} & \shortstack{Javascript library designed to make\\ it easier to navigate a document,\\ select DOM elements, create animations,\\ handle events, and develop Ajax applications} \\
+\hline
+\textbf{A-Frame} & \shortstack{An open-source web framework for\\ building virtual reality experiences\\ with JavaScript and HTML}\\
+\hline
+ \end{tabu}
+ \caption{Languages used during the development \label{table:languages}}
+\end{table}
+\begin{table}
+\centering
+\tabulinesep=1.2mm
+\newcolumntype{B}{>{\centering\arraybackslash} m{8cm} }
+\newcolumntype{D}{>{\centering\arraybackslash} m{2.5cm} }
+\begin{tabu}{|D|B|}
+\hline
+\multicolumn{2}{|c|}{\textbf{\Large Softwares used}}\\
+\hline
+\textbf{Altervista} &  \shortstack{Is an italian web platform \\ where you can open a \\ free web site} \\
+\hline
+\textbf{Brackets} & \shortstack{Is a modern text editor that\\ makes it easy to design in the browser} \\
+\hline
+\textbf{Imgur} & \shortstack{Is an online image sharing\\ community and image host} \\
+\hline
+\end{tabu}
+\caption{Softwares used during the development \label{table:softwares}}
+\end{table}
