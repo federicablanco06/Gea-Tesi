@@ -34,28 +34,47 @@
 \contentsline {subsection}{\numberline {2.2.3}"Healthy or not?" page}{41}{subsection.2.2.3}
 \contentsline {subsection}{\numberline {2.2.4}"Let's eat!" page}{41}{subsection.2.2.4}
 \contentsline {section}{\numberline {2.3}Implementation Overview}{42}{section.2.3}
-\contentsline {chapter}{\numberline {3}Participatory Design Process}{45}{chapter.3}
-\contentsline {section}{\numberline {3.1}Goal}{45}{section.3.1}
-\contentsline {section}{\numberline {3.2}Participants}{45}{section.3.2}
-\contentsline {section}{\numberline {3.3}Requirements}{45}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Materials}{45}{subsection.3.3.1}
-\contentsline {section}{\numberline {3.4}Participatory Design Overview}{45}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}General aspects}{45}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Session structure overview}{45}{subsection.3.4.2}
-\contentsline {chapter}{\numberline {4}Step by step process}{47}{chapter.4}
-\contentsline {section}{\numberline {4.1}First session}{47}{section.4.1}
-\contentsline {section}{\numberline {4.2}Second prototype}{47}{section.4.2}
-\contentsline {section}{\numberline {4.3}Second session}{47}{section.4.3}
-\contentsline {chapter}{\numberline {5}Final prototype}{49}{chapter.5}
-\contentsline {chapter}{\numberline {6}Codesign Process Evaluation}{51}{chapter.6}
-\contentsline {section}{\numberline {6.1}Evaluation method}{51}{section.6.1}
-\contentsline {section}{\numberline {6.2}Evaluation results}{51}{section.6.2}
-\contentsline {chapter}{\numberline {7}Challenges}{53}{chapter.7}
-\contentsline {chapter}{\numberline {8}Implementation}{55}{chapter.8}
-\contentsline {section}{\numberline {8.1}Tools}{55}{section.8.1}
-\contentsline {section}{\numberline {8.2}Hardware Architecture}{55}{section.8.2}
-\contentsline {section}{\numberline {8.3}Software Architecture}{55}{section.8.3}
-\contentsline {chapter}{\numberline {9}Conclusion}{57}{chapter.9}
-\contentsline {chapter}{Bibliography}{63}{chapter*.40}
-\contentsline {chapter}{\numberline {A}First appendix - User manual}{65}{appendix.A}
-\contentsline {chapter}{\numberline {B}Second appendix - Questionar}{67}{appendix.B}
+\contentsline {chapter}{\numberline {3}First evaluation}{45}{chapter.3}
+\contentsline {section}{\numberline {3.1}Therapists}{45}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Objectives}{46}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Participants}{47}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Test setup}{47}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}Introduction to the test}{47}{subsection.3.1.4}
+\contentsline {subsection}{\numberline {3.1.5}Test procedure}{47}{subsection.3.1.5}
+\contentsline {subsection}{\numberline {3.1.6}Feedback}{48}{subsection.3.1.6}
+\contentsline {subsection}{\numberline {3.1.7}Results}{48}{subsection.3.1.7}
+\contentsline {subsection}{\numberline {3.1.8}Conclusions}{48}{subsection.3.1.8}
+\contentsline {section}{\numberline {3.2}Patients}{48}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Objectives}{48}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Participants}{49}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Test setup}{49}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Introduction to the test}{49}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Test procedure}{49}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}Feedback}{51}{subsection.3.2.6}
+\contentsline {subsection}{\numberline {3.2.7}Results}{51}{subsection.3.2.7}
+\contentsline {subsection}{\numberline {3.2.8}Conclusions}{51}{subsection.3.2.8}
+\contentsline {chapter}{\numberline {4}GEA: second prototype}{53}{chapter.4}
+\contentsline {section}{\numberline {4.1}First session}{53}{section.4.1}
+\contentsline {section}{\numberline {4.2}Second prototype}{53}{section.4.2}
+\contentsline {section}{\numberline {4.3}Second session}{53}{section.4.3}
+\contentsline {chapter}{\numberline {5}Second evaluation}{55}{chapter.5}
+\contentsline {section}{\numberline {5.1}Objectives}{55}{section.5.1}
+\contentsline {section}{\numberline {5.2}Participants}{55}{section.5.2}
+\contentsline {section}{\numberline {5.3}Test setup}{55}{section.5.3}
+\contentsline {section}{\numberline {5.4}Introduction to the test}{55}{section.5.4}
+\contentsline {section}{\numberline {5.5}Test procedure}{55}{section.5.5}
+\contentsline {section}{\numberline {5.6}Feedback}{55}{section.5.6}
+\contentsline {section}{\numberline {5.7}Results}{55}{section.5.7}
+\contentsline {section}{\numberline {5.8}Conclusions}{55}{section.5.8}
+\contentsline {chapter}{\numberline {6}Value proposition}{57}{chapter.6}
+\contentsline {section}{\numberline {6.1}Evaluation method}{57}{section.6.1}
+\contentsline {section}{\numberline {6.2}Evaluation results}{57}{section.6.2}
+\contentsline {chapter}{\numberline {7}Challenges}{59}{chapter.7}
+\contentsline {chapter}{\numberline {8}Implementation}{61}{chapter.8}
+\contentsline {section}{\numberline {8.1}Tools}{61}{section.8.1}
+\contentsline {section}{\numberline {8.2}Hardware Architecture}{61}{section.8.2}
+\contentsline {section}{\numberline {8.3}Software Architecture}{61}{section.8.3}
+\contentsline {chapter}{\numberline {9}Conclusion}{63}{chapter.9}
+\contentsline {chapter}{Bibliography}{69}{chapter*.42}
+\contentsline {chapter}{\numberline {A}First appendix - User manual}{71}{appendix.A}
+\contentsline {chapter}{\numberline {B}Second appendix - Questionar}{73}{appendix.B}
