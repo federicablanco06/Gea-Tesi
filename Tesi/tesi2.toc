@@ -54,9 +54,7 @@
 \contentsline {subsection}{\numberline {3.2.7}Results}{51}{subsection.3.2.7}
 \contentsline {subsection}{\numberline {3.2.8}Conclusions}{51}{subsection.3.2.8}
 \contentsline {chapter}{\numberline {4}GEA: second prototype}{53}{chapter.4}
-\contentsline {section}{\numberline {4.1}First session}{53}{section.4.1}
-\contentsline {section}{\numberline {4.2}Second prototype}{53}{section.4.2}
-\contentsline {section}{\numberline {4.3}Second session}{53}{section.4.3}
+\contentsline {section}{\numberline {4.1}UX}{53}{section.4.1}
 \contentsline {chapter}{\numberline {5}Second evaluation}{55}{chapter.5}
 \contentsline {section}{\numberline {5.1}Objectives}{55}{section.5.1}
 \contentsline {section}{\numberline {5.2}Participants}{55}{section.5.2}
