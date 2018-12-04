@@ -18,6 +18,10 @@ M4all.
   syndrome., pages 312--321.
 \newblock January-February 2011.
 
+\bibitem{Aframe}
+A-Frame.
+\newblock \url{https://aframe.io/}.
+
 \bibitem{FoodallergyUSchildren}
 SL~Lukacs AM~Branum.
 \newblock Food allergy among us children: trends in prevalence and
@@ -133,6 +137,12 @@ Good~J. Frauenberger~C. and Keay-Bright W.
 LifeGuard Games.
 \newblock Wizdy diner.
 \newblock \url{http://wizdygames.com/}.
+
+\bibitem{TWB}
+Matarazzo et~al Garzotto, Messina.
+\newblock {\em Exploiting the integration of Wearable Virtual Reality and
+  Bio-sensors for Persons with Neurodevelopmental Disorders.}
+\newblock 2018.
 
 \bibitem{Infante}
 Andre Infante.

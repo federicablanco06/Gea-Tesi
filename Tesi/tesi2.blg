@@ -20,6 +20,7 @@ Warning--empty year in Elizabeth
 Warning--empty publisher in BioccaDelaney
 Warning--can't use both author and editor fields in Tredici
 Warning--empty publisher in Tredici
+Warning--empty publisher in TWB
 Warning--empty publisher in Infante
 Warning--empty year in Infante
 Warning--empty publisher in Mayo
@@ -39,4 +40,4 @@ Warning--empty publisher in Dorothy
 Warning--empty year in Dorothy
 Warning--can't use both author and editor fields in Sedici
 Warning--empty publisher in Sedici
-(There were 38 warnings)
+(There were 39 warnings)
