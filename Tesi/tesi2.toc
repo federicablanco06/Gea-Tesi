@@ -54,29 +54,29 @@
 \contentsline {subsection}{\numberline {3.2.7}Results}{51}{subsection.3.2.7}
 \contentsline {subsection}{\numberline {3.2.8}Conclusions}{51}{subsection.3.2.8}
 \contentsline {chapter}{\numberline {4}GEA: second prototype}{53}{chapter.4}
-\contentsline {section}{\numberline {4.1}Touchscreen}{53}{section.4.1}
-\contentsline {section}{\numberline {4.2}Allergy game}{53}{section.4.2}
-\contentsline {section}{\numberline {4.3}Other modifications}{53}{section.4.3}
-\contentsline {chapter}{\numberline {5}Second evaluation}{55}{chapter.5}
-\contentsline {section}{\numberline {5.1}Objectives}{55}{section.5.1}
-\contentsline {section}{\numberline {5.2}Participants}{55}{section.5.2}
-\contentsline {section}{\numberline {5.3}Test setup}{55}{section.5.3}
-\contentsline {section}{\numberline {5.4}Introduction to the test}{55}{section.5.4}
-\contentsline {section}{\numberline {5.5}Test procedure}{55}{section.5.5}
-\contentsline {section}{\numberline {5.6}Feedback}{55}{section.5.6}
-\contentsline {section}{\numberline {5.7}Results}{55}{section.5.7}
-\contentsline {section}{\numberline {5.8}Conclusions}{55}{section.5.8}
-\contentsline {chapter}{\numberline {6}Value proposition}{57}{chapter.6}
-\contentsline {section}{\numberline {6.1}Evaluation method}{57}{section.6.1}
-\contentsline {section}{\numberline {6.2}Evaluation results}{57}{section.6.2}
-\contentsline {chapter}{\numberline {7}Challenges}{59}{chapter.7}
-\contentsline {chapter}{\numberline {8}Implementation}{61}{chapter.8}
-\contentsline {section}{\numberline {8.1}Tools}{61}{section.8.1}
-\contentsline {subsection}{\numberline {8.1.1}A-Frame}{61}{subsection.8.1.1}
-\contentsline {subsection}{\numberline {8.1.2}Languages}{62}{subsection.8.1.2}
-\contentsline {section}{\numberline {8.2}Hardware Architecture}{63}{section.8.2}
-\contentsline {section}{\numberline {8.3}Software Architecture}{63}{section.8.3}
-\contentsline {chapter}{\numberline {9}Conclusion}{65}{chapter.9}
-\contentsline {chapter}{Bibliography}{71}{chapter*.43}
-\contentsline {chapter}{\numberline {A}First appendix - User manual}{73}{appendix.A}
-\contentsline {chapter}{\numberline {B}Second appendix - Questionar}{75}{appendix.B}
+\contentsline {section}{\numberline {4.1}Touchscreen}{54}{section.4.1}
+\contentsline {section}{\numberline {4.2}Allergy game}{56}{section.4.2}
+\contentsline {section}{\numberline {4.3}Other modifications}{56}{section.4.3}
+\contentsline {chapter}{\numberline {5}Second evaluation}{57}{chapter.5}
+\contentsline {section}{\numberline {5.1}Objectives}{57}{section.5.1}
+\contentsline {section}{\numberline {5.2}Participants}{57}{section.5.2}
+\contentsline {section}{\numberline {5.3}Test setup}{57}{section.5.3}
+\contentsline {section}{\numberline {5.4}Introduction to the test}{57}{section.5.4}
+\contentsline {section}{\numberline {5.5}Test procedure}{57}{section.5.5}
+\contentsline {section}{\numberline {5.6}Feedback}{57}{section.5.6}
+\contentsline {section}{\numberline {5.7}Results}{57}{section.5.7}
+\contentsline {section}{\numberline {5.8}Conclusions}{57}{section.5.8}
+\contentsline {chapter}{\numberline {6}Value proposition}{59}{chapter.6}
+\contentsline {section}{\numberline {6.1}Evaluation method}{59}{section.6.1}
+\contentsline {section}{\numberline {6.2}Evaluation results}{59}{section.6.2}
+\contentsline {chapter}{\numberline {7}Challenges}{61}{chapter.7}
+\contentsline {chapter}{\numberline {8}Implementation}{63}{chapter.8}
+\contentsline {section}{\numberline {8.1}Tools}{63}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}A-Frame}{63}{subsection.8.1.1}
+\contentsline {subsection}{\numberline {8.1.2}Languages}{64}{subsection.8.1.2}
+\contentsline {section}{\numberline {8.2}Hardware Architecture}{65}{section.8.2}
+\contentsline {section}{\numberline {8.3}Software Architecture}{65}{section.8.3}
+\contentsline {chapter}{\numberline {9}Conclusion}{67}{chapter.9}
+\contentsline {chapter}{Bibliography}{73}{chapter*.49}
+\contentsline {chapter}{\numberline {A}First appendix - User manual}{75}{appendix.A}
+\contentsline {chapter}{\numberline {B}Second appendix - Questionar}{77}{appendix.B}
