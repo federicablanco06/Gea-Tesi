@@ -1,82 +1,81 @@
 \select@language {english}
-\contentsline {chapter}{Introduction}{1}{chapter*.8}
-\contentsline {section}{\numberline {0.1}Food problems and their impact on childhood }{1}{section.0.1}
-\contentsline {section}{\numberline {0.2}Virtual Reality}{3}{section.0.2}
-\contentsline {section}{\numberline {0.3}Touchscreen}{5}{section.0.3}
-\contentsline {section}{\numberline {0.4}Neurodevelopmental Disorder}{6}{section.0.4}
-\contentsline {section}{\numberline {0.5}Participatory Design and Therapy}{8}{section.0.5}
-\contentsline {section}{\numberline {0.6}GEA and its Codesign process}{9}{section.0.6}
-\contentsline {section}{\numberline {0.7}GEA}{10}{section.0.7}
-\contentsline {subsection}{\numberline {0.7.1}Thesi Structure}{10}{subsection.0.7.1}
-\contentsline {subsection}{\numberline {0.7.2}Origin of the name and mascotte}{10}{subsection.0.7.2}
-\contentsline {chapter}{\numberline {1}State of the art}{13}{chapter.1}
-\contentsline {section}{\numberline {1.1}Modern technologies for NDD people}{13}{section.1.1}
-\contentsline {section}{\numberline {1.2}Virtual Reality}{14}{section.1.2}
-\contentsline {section}{\numberline {1.3}Touchscreen}{17}{section.1.3}
-\contentsline {section}{\numberline {1.4}Google Chromecast}{18}{section.1.4}
-\contentsline {section}{\numberline {1.5}Projects about food education}{19}{section.1.5}
-\contentsline {section}{\numberline {1.6}Projects about food allergies education}{20}{section.1.6}
-\contentsline {section}{\numberline {1.7}Participatory Design}{22}{section.1.7}
-\contentsline {subsection}{\numberline {1.7.1}What is Participatory Design?}{22}{subsection.1.7.1}
-\contentsline {subsection}{\numberline {1.7.2}Participatory Design with children}{23}{subsection.1.7.2}
-\contentsline {subsection}{\numberline {1.7.3}Participatory Design and people with disabilities}{25}{subsection.1.7.3}
-\contentsline {chapter}{\numberline {2}GEA: first prototype}{33}{chapter.2}
-\contentsline {section}{\numberline {2.1}Requirements elicitation}{33}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Fraternit\'a \& Amicizia Onlus}{34}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Main target groups}{35}{subsection.2.1.2}
-\contentsline {subsection}{\numberline {2.1.3}Context and need addressed}{36}{subsection.2.1.3}
-\contentsline {subsection}{\numberline {2.1.4}Constraints}{36}{subsection.2.1.4}
-\contentsline {subsection}{\numberline {2.1.5}Goals}{36}{subsection.2.1.5}
-\contentsline {subsection}{\numberline {2.1.6}Requirements}{37}{subsection.2.1.6}
-\contentsline {section}{\numberline {2.2}UX Design}{38}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Home page}{38}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}"Learn with the pyramid!" page}{40}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}"Healthy or not?" page}{41}{subsection.2.2.3}
-\contentsline {subsection}{\numberline {2.2.4}"Let's eat!" page}{41}{subsection.2.2.4}
-\contentsline {section}{\numberline {2.3}Implementation Overview}{42}{section.2.3}
-\contentsline {chapter}{\numberline {3}First evaluation}{45}{chapter.3}
-\contentsline {section}{\numberline {3.1}Therapists}{45}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Objectives}{46}{subsection.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}Participants}{47}{subsection.3.1.2}
-\contentsline {subsection}{\numberline {3.1.3}Test setup}{47}{subsection.3.1.3}
-\contentsline {subsection}{\numberline {3.1.4}Introduction to the test}{47}{subsection.3.1.4}
-\contentsline {subsection}{\numberline {3.1.5}Test procedure}{47}{subsection.3.1.5}
-\contentsline {subsection}{\numberline {3.1.6}Feedback}{48}{subsection.3.1.6}
-\contentsline {subsection}{\numberline {3.1.7}Results}{48}{subsection.3.1.7}
-\contentsline {subsection}{\numberline {3.1.8}Conclusions}{48}{subsection.3.1.8}
-\contentsline {section}{\numberline {3.2}Patients}{48}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Objectives}{48}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Participants}{49}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Test setup}{49}{subsection.3.2.3}
-\contentsline {subsection}{\numberline {3.2.4}Introduction to the test}{49}{subsection.3.2.4}
-\contentsline {subsection}{\numberline {3.2.5}Test procedure}{49}{subsection.3.2.5}
-\contentsline {subsection}{\numberline {3.2.6}Feedback}{51}{subsection.3.2.6}
-\contentsline {subsection}{\numberline {3.2.7}Results}{51}{subsection.3.2.7}
-\contentsline {subsection}{\numberline {3.2.8}Conclusions}{51}{subsection.3.2.8}
-\contentsline {chapter}{\numberline {4}GEA: second prototype}{53}{chapter.4}
-\contentsline {section}{\numberline {4.1}Touchscreen}{54}{section.4.1}
-\contentsline {section}{\numberline {4.2}Allergy game}{56}{section.4.2}
-\contentsline {section}{\numberline {4.3}Other modifications}{56}{section.4.3}
-\contentsline {chapter}{\numberline {5}Second evaluation}{57}{chapter.5}
-\contentsline {section}{\numberline {5.1}Objectives}{57}{section.5.1}
-\contentsline {section}{\numberline {5.2}Participants}{57}{section.5.2}
-\contentsline {section}{\numberline {5.3}Test setup}{57}{section.5.3}
-\contentsline {section}{\numberline {5.4}Introduction to the test}{57}{section.5.4}
-\contentsline {section}{\numberline {5.5}Test procedure}{57}{section.5.5}
-\contentsline {section}{\numberline {5.6}Feedback}{57}{section.5.6}
-\contentsline {section}{\numberline {5.7}Results}{57}{section.5.7}
-\contentsline {section}{\numberline {5.8}Conclusions}{57}{section.5.8}
-\contentsline {chapter}{\numberline {6}Value proposition}{59}{chapter.6}
-\contentsline {section}{\numberline {6.1}Evaluation method}{59}{section.6.1}
-\contentsline {section}{\numberline {6.2}Evaluation results}{59}{section.6.2}
-\contentsline {chapter}{\numberline {7}Challenges}{61}{chapter.7}
-\contentsline {chapter}{\numberline {8}Implementation}{63}{chapter.8}
-\contentsline {section}{\numberline {8.1}Tools}{63}{section.8.1}
-\contentsline {subsection}{\numberline {8.1.1}A-Frame}{63}{subsection.8.1.1}
-\contentsline {subsection}{\numberline {8.1.2}Languages}{64}{subsection.8.1.2}
-\contentsline {section}{\numberline {8.2}Hardware Architecture}{65}{section.8.2}
-\contentsline {section}{\numberline {8.3}Software Architecture}{65}{section.8.3}
-\contentsline {chapter}{\numberline {9}Conclusion}{67}{chapter.9}
-\contentsline {chapter}{Bibliography}{73}{chapter*.49}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Food problems and their impact on childhood }{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Virtual Reality}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}Touchscreen}{5}{section.1.3}
+\contentsline {section}{\numberline {1.4}Neurodevelopmental Disorder}{6}{section.1.4}
+\contentsline {section}{\numberline {1.5}Participatory Design and Therapy}{8}{section.1.5}
+\contentsline {section}{\numberline {1.6}GEA and its Codesign process}{9}{section.1.6}
+\contentsline {section}{\numberline {1.7}GEA}{10}{section.1.7}
+\contentsline {subsection}{\numberline {1.7.1}Thesis Structure}{10}{subsection.1.7.1}
+\contentsline {subsection}{\numberline {1.7.2}Origin of the name and mascotte}{10}{subsection.1.7.2}
+\contentsline {chapter}{\numberline {2}State of the art}{13}{chapter.2}
+\contentsline {section}{\numberline {2.1}Modern technologies for NDD people}{13}{section.2.1}
+\contentsline {section}{\numberline {2.2}Virtual Reality}{14}{section.2.2}
+\contentsline {section}{\numberline {2.3}Touchscreen}{17}{section.2.3}
+\contentsline {section}{\numberline {2.4}Projects about food education}{18}{section.2.4}
+\contentsline {section}{\numberline {2.5}Projects about food allergies education}{19}{section.2.5}
+\contentsline {section}{\numberline {2.6}Participatory Design}{21}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}What is Participatory Design?}{21}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}Participatory Design with children}{22}{subsection.2.6.2}
+\contentsline {subsection}{\numberline {2.6.3}Participatory Design and people with disabilities}{24}{subsection.2.6.3}
+\contentsline {chapter}{\numberline {3}GEA: first prototype}{33}{chapter.3}
+\contentsline {section}{\numberline {3.1}Requirements elicitation}{33}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Fraternit\'a \& Amicizia Onlus}{34}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Main target groups}{35}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Context and need addressed}{36}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}Constraints}{36}{subsection.3.1.4}
+\contentsline {subsection}{\numberline {3.1.5}Goals}{36}{subsection.3.1.5}
+\contentsline {subsection}{\numberline {3.1.6}Requirements}{37}{subsection.3.1.6}
+\contentsline {section}{\numberline {3.2}UX Design}{38}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Home page}{38}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}"Learn with the pyramid!"}{40}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}"Healthy or not?"}{41}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}"Let's eat!"}{41}{subsection.3.2.4}
+\contentsline {section}{\numberline {3.3}Implementation Overview}{42}{section.3.3}
+\contentsline {chapter}{\numberline {4}First evaluation}{45}{chapter.4}
+\contentsline {section}{\numberline {4.1}Therapists}{45}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Objectives}{46}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Participants}{47}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Test setup}{47}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Introduction to the test}{47}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}Test procedure}{47}{subsection.4.1.5}
+\contentsline {subsection}{\numberline {4.1.6}Feedback}{48}{subsection.4.1.6}
+\contentsline {subsection}{\numberline {4.1.7}Results}{48}{subsection.4.1.7}
+\contentsline {subsection}{\numberline {4.1.8}Conclusions}{48}{subsection.4.1.8}
+\contentsline {section}{\numberline {4.2}Patients}{48}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Objectives}{48}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Participants}{49}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Test setup}{49}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Introduction to the test}{49}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Test procedure}{49}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4.2.6}Feedback}{51}{subsection.4.2.6}
+\contentsline {subsection}{\numberline {4.2.7}Results}{51}{subsection.4.2.7}
+\contentsline {subsection}{\numberline {4.2.8}Conclusions}{51}{subsection.4.2.8}
+\contentsline {chapter}{\numberline {5}GEA: second prototype}{53}{chapter.5}
+\contentsline {section}{\numberline {5.1}Touchscreen}{54}{section.5.1}
+\contentsline {section}{\numberline {5.2}Allergy game}{56}{section.5.2}
+\contentsline {section}{\numberline {5.3}Other modifications}{56}{section.5.3}
+\contentsline {chapter}{\numberline {6}Second evaluation}{57}{chapter.6}
+\contentsline {section}{\numberline {6.1}Objectives}{57}{section.6.1}
+\contentsline {section}{\numberline {6.2}Participants}{57}{section.6.2}
+\contentsline {section}{\numberline {6.3}Test setup}{57}{section.6.3}
+\contentsline {section}{\numberline {6.4}Introduction to the test}{57}{section.6.4}
+\contentsline {section}{\numberline {6.5}Test procedure}{57}{section.6.5}
+\contentsline {section}{\numberline {6.6}Feedback}{57}{section.6.6}
+\contentsline {section}{\numberline {6.7}Results}{57}{section.6.7}
+\contentsline {section}{\numberline {6.8}Conclusions}{57}{section.6.8}
+\contentsline {chapter}{\numberline {7}Value proposition}{59}{chapter.7}
+\contentsline {section}{\numberline {7.1}Evaluation method}{59}{section.7.1}
+\contentsline {section}{\numberline {7.2}Evaluation results}{59}{section.7.2}
+\contentsline {chapter}{\numberline {8}Challenges}{61}{chapter.8}
+\contentsline {chapter}{\numberline {9}Implementation}{63}{chapter.9}
+\contentsline {section}{\numberline {9.1}Tools}{63}{section.9.1}
+\contentsline {subsection}{\numberline {9.1.1}A-Frame}{63}{subsection.9.1.1}
+\contentsline {subsection}{\numberline {9.1.2}Languages}{64}{subsection.9.1.2}
+\contentsline {section}{\numberline {9.2}Hardware Architecture}{65}{section.9.2}
+\contentsline {section}{\numberline {9.3}Software Architecture}{65}{section.9.3}
+\contentsline {chapter}{\numberline {10}Conclusion}{67}{chapter.10}
+\contentsline {chapter}{Bibliography}{73}{chapter*.47}
 \contentsline {chapter}{\numberline {A}First appendix - User manual}{75}{appendix.A}
-\contentsline {chapter}{\numberline {B}Second appendix - Questionar}{77}{appendix.B}
+\contentsline {chapter}{\numberline {B}Second appendix - Questionnaire}{77}{appendix.B}
